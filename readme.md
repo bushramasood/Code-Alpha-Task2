@@ -1,2 +1,2 @@
 <h1>Code Alpha internship Task2 </h1>
-<h1>To do List</h1>
+<h1>To do List<h1>
